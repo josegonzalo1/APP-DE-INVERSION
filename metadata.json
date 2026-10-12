@@ -1,0 +1,6 @@
+{
+  "name": "El Inversor",
+  "description": "Motor profesional de toma de decisiones de inversión táctica en tiempo real con IA cuantitativa, confluencia multitemporal (H1 a 1M), sincronización Wall Street y dimensionamiento de riesgo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
